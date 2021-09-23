@@ -1,0 +1,11 @@
+F:\Projects\C#\CsLabs_2020\Lab_15\Lab_15\obj\Debug\netcoreapp3.1\Lab_15.csprojAssemblyReference.cache
+F:\Projects\C#\CsLabs_2020\Lab_15\Lab_15\obj\Debug\netcoreapp3.1\Lab_15.AssemblyInfoInputs.cache
+F:\Projects\C#\CsLabs_2020\Lab_15\Lab_15\obj\Debug\netcoreapp3.1\Lab_15.AssemblyInfo.cs
+F:\Projects\C#\CsLabs_2020\Lab_15\Lab_15\bin\Debug\netcoreapp3.1\Lab_15.exe
+F:\Projects\C#\CsLabs_2020\Lab_15\Lab_15\bin\Debug\netcoreapp3.1\Lab_15.deps.json
+F:\Projects\C#\CsLabs_2020\Lab_15\Lab_15\bin\Debug\netcoreapp3.1\Lab_15.runtimeconfig.json
+F:\Projects\C#\CsLabs_2020\Lab_15\Lab_15\bin\Debug\netcoreapp3.1\Lab_15.runtimeconfig.dev.json
+F:\Projects\C#\CsLabs_2020\Lab_15\Lab_15\bin\Debug\netcoreapp3.1\Lab_15.dll
+F:\Projects\C#\CsLabs_2020\Lab_15\Lab_15\bin\Debug\netcoreapp3.1\Lab_15.pdb
+F:\Projects\C#\CsLabs_2020\Lab_15\Lab_15\obj\Debug\netcoreapp3.1\Lab_15.dll
+F:\Projects\C#\CsLabs_2020\Lab_15\Lab_15\obj\Debug\netcoreapp3.1\Lab_15.pdb
